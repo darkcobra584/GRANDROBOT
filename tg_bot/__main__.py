@@ -143,7 +143,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
                                                                        url="t.me/ANlME_SENPAI")],
-                                                                                   [InlineKeyboardButton(text= 
+                                                                                   [InlineKeyboardButton(text=ADD MIZUHARA BOT
 "MIZUHARA TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
